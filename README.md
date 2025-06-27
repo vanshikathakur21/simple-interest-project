@@ -1,2 +1,2 @@
-# simple-interest-project
+# simple-interest-projects
 calculating the simple interest 
